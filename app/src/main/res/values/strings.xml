@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Ixigo</string>
+    <string name="cheap">Cheap</string>
+    <string name="early">Early</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
